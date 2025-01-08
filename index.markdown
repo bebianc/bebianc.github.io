@@ -4,12 +4,8 @@
 
 #layout: home
 ---
----
-layout: default
-title: Bebianc Resume
----
 
-# Bebianc - Site Reliability Engineer
+# Nadir Bernardo Bianchini - Site Reliability Engineer and Observability Teach Lead Specialist
 ## Contato
 - **Email:** bebianc@example.com
 - **LinkedIn:** [linkedin.com/in/bebianc](https://linkedin.com/in/bebianc)
