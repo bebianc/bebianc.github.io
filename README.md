@@ -30,4 +30,7 @@ Profissional com mais de X anos de experiência em Site Reliability Engineering,
 - **Orquestração:** Kubernetes, Docker
 - **Monitoramento:** Prometheus, Grafana
 - **Scripting:** Python, Bash
+<<<<<<< HEAD
 
+=======
+>>>>>>> 25c8233421297eccec287389fdeeb1d4a2e84813
