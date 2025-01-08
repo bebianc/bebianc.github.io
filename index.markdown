@@ -1,6 +1,4 @@
----
-layout: default
-title: "Resume - Nadir Bernardo Bianchini"
+
 ---
 
 # **Nadir Bernardo Bianchini**
