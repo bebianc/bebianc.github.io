@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Resume - Nadir Bianchini"
+title: "Resume - Nadir Bernardo Bianchini"
 ---
 
 # **Nadir Bernardo Bianchini**
@@ -13,62 +13,67 @@ title: "Resume - Nadir Bianchini"
 ---
 
 ## **Professional Summary**
-Experienced **Site Reliability Engineer (SRE)** and **Observability** with over 5 years of expertise in cloud infrastructure (AWS/GCP), containerization (Docker, Kubernetes), CI/CD pipelines, and observability tools like Prometheus and Grafana. Skilled in optimizing system reliability, automating deployments, and ensuring high availability.
+I have been working as a **Senior SRE and Observability** at Softplan for over 3 years. For the past 2 years, I have taken on the role of **Technical Lead** for the team, overseeing the resolution of critical scenarios such as Windows, Docker, and Kubernetes cluster unavailability, system performance degradation, high network latency, and excessive resource consumption by servers and applications.
+
+I have successfully implemented key infrastructure improvements, including the **redesign of server pool architecture** to optimize resource utilization and reliability. I also played a pivotal role in several migration initiatives, such as:
+
+- **Migration of legacy applications from Docker to Kubernetes**, with a strong focus on security and performance, leveraging CI/CD pipelines.
+- **Migration of sensitive data to secure storage solutions**, ensuring data integrity and compliance.
+In addition, I have developed **comprehensive documentation** and conducted **training programs** on company technologies to upskill teams and ensure knowledge sharing across departments.
+
+My approach combines proactive monitoring, robust incident management, and the continuous pursuit of innovative solutions to enhance system reliability and scalability.
 
 ---
 
 ## **Skills**
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Azure  
-- **Infrastructure as Code:** Terraform, Ansible, CloudFormation  
+- **Cloud Platforms:** AWS, Oracle Cloud  
+- **Infrastructure as Code:** Terraform, Powershell  
 - **Containerization:** Docker, Kubernetes  
-- **CI/CD Tools:** Jenkins, GitLab CI, GitHub Actions  
-- **Monitoring Tools:** Prometheus, Grafana, ELK Stack  
-- **Scripting Languages:** Python, Bash, Go  
-- **Version Control:** Git, GitHub, GitLab  
-
+- **CI/CD Tools:** GitLab CI, GitHub Actions  
+- **Monitoring Tools:** Prometheus, Grafana, ELK Stack, Zabbix    
+- **Blob Storages:** MinIO, S3  
+- **Data Bases** Oracle, SQL Server, PostgreSQL
+- **Operation System** Windows Server, Linux
+- **Load Balancer** Apache, Nginx, Haproxy
+- **Others Tools** RabbitMQ, Vault, Keycloak, Redis, Istio (Service Mesh)
 ---
 
 ## **Professional Experience**
 
+### **Specialist Site Reliability Engineer**  
+**Softplan** - (2024 - Present)
 ### **Senior Site Reliability Engineer**  
-**TechCorp Solutions** - Remote (2020 - Present)  
-- Designed and implemented Kubernetes clusters, reducing downtime by 40%.  
-- Automated infrastructure provisioning using Terraform, saving 30% in operational costs.  
-- Improved monitoring systems by integrating Prometheus and Grafana, reducing Mean Time to Recovery (MTTR) by 20%.  
-- Led the migration of legacy systems to microservices architecture on AWS.  
+**Softplan** - (2021 - 2024)  
+- Designed and implemented Kubernetes clusters, reducing downtime.  
+- Automated infrastructure provisioning using Terraform, saving in operational costs.  
+- Improved monitoring systems by integrating Prometheus and Grafana, reducing Mean Time to Recovery (MTTR).  
+- Liderei a migração de toda infraestrutura on-premise para arquitetura em AWS.  
 
-### **DevOps Engineer**  
-**CloudWorks Inc.** - São Paulo, Brazil (2017 - 2020)  
-- Developed CI/CD pipelines with Jenkins, reducing deployment times by 50%.  
-- Automated server configuration with Ansible, improving consistency and reliability.  
-- Monitored and optimized cloud resources to minimize costs on GCP and Azure.
+### **Tech Lead Observability**
+**Softplan** -  (2024 - Present)
+- Designed and deployed **ELK stack clusters** both on-premises and on Elastic Cloud, ensuring scalability and reliability.
+- Supported the implementation of **data ingestion pipelines** for **APM (Application Performance Monitoring)** and **Elasticsearch**, optimizing system observability and monitoring.
+- Developed and customized **Kibana Dashboards** and **Visualizations** to provide actionable insights into system performance and infrastructure health.
+- Managed **Elasticsearch indices**, performed cluster maintenance, and ensured data integrity and availability across the observability stack.
 
 ---
 
 ## **Education**
-- **Bachelor’s Degree in Computer Science**  
-  University of São Paulo (USP), Brazil (2012 - 2016)
-
+- **Technologist, Telecommunications Systems Technology**  
+  Federal Institute of Santa Catarina (IFSC), Brazil (2009 - 2016)
 ---
 
-## **Certifications**
-- **AWS Certified Solutions Architect – Associate** (2021)  
-- **Certified Kubernetes Administrator (CKA)** (2020)  
-- **HashiCorp Certified: Terraform Associate** (2022)  
-
----
-
-## **Projects**
-- **High-Availability Web Application**: Designed and deployed a fault-tolerant, highly available application using Kubernetes on AWS.  
-- **Custom Monitoring Dashboard**: Built a Grafana dashboard for a microservices architecture, reducing troubleshooting time by 35%.  
-- **Cost Optimization for Cloud Infrastructure**: Automated resource management, achieving $20,000 in annual savings.  
+## **Some of the main projects**
+- **Chaos Engineering with Kubernetes and Istio Service Mesh**: Working with a Service Level Objective (SLO) of 99.99% availability for customers, even in chaos scenarios, by enhancing resilience directly within Istio. This approach addresses cases where applications lack retry mechanisms or circuit breaker implementations.
+- **Custom Monitoring Dashboard**: Built a Grafana dashboard for a microservices architecture and infraestructure, reducing troubleshooting time.  
+- **Infrastructure Migration**: Migration of the entire client infrastructure from on-premises to AWS and Oracle Cloud, automated using Terraform and GitLab.
 
 ---
 
 ## **Languages**
-- **English:** Fluent  
+- **English:** Intermediate  
 - **Portuguese:** Native  
-- **Spanish:** Intermediate  
+- **Spanish:** Advanced  
 
 ---
 
