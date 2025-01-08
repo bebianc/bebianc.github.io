@@ -36,6 +36,7 @@ My approach combines proactive monitoring, robust incident management, and the c
 - **Operation System** Windows Server, Linux
 - **Load Balancer** Apache, Nginx, Haproxy
 - **Others Tools** RabbitMQ, Vault, Keycloak, Redis, Istio (Service Mesh)
+
 ---
 
 ## **Professional Experience**
@@ -47,7 +48,7 @@ My approach combines proactive monitoring, robust incident management, and the c
 - Designed and implemented Kubernetes clusters, reducing downtime.  
 - Automated infrastructure provisioning using Terraform, saving in operational costs.  
 - Improved monitoring systems by integrating Prometheus and Grafana, reducing Mean Time to Recovery (MTTR).  
-- Liderei a migração de toda infraestrutura on-premise para arquitetura em AWS.  
+- Led the migration of all on-premise infrastructure to AWS architecture.
 
 ### **Tech Lead Observability**
 **Softplan** -  (2024 - Present)
@@ -56,11 +57,27 @@ My approach combines proactive monitoring, robust incident management, and the c
 - Developed and customized **Kibana Dashboards** and **Visualizations** to provide actionable insights into system performance and infrastructure health.
 - Managed **Elasticsearch indices**, performed cluster maintenance, and ensured data integrity and availability across the observability stack.
 
+### **IT Infrastructure Analyst**
+**ServerDo.in** -  (2016 - 2017)
+- Monitoring multiple cloud servers, ensuring network security and cloud computing.  
+Configuration of web servers, email servers, database servers, cloud applications, and firewalls.  
+Cloud server configurations on AWS (Amazon Web Services) and VPS (Virtual Private Servers).  
+
+### **Technical support analyst**
+**Intelbras** -  (2013 - 2015)
+- Technical Support Analyst. Maintenance of network infrastructure, technical support for routers, outdoor radios, managed switches, miniGBIC modules, media converters, and network interface cards.
+
 ---
 
 ## **Education**
 - **Technologist, Telecommunications Systems Technology**  
   Federal Institute of Santa Catarina (IFSC), Brazil (2009 - 2016)
+- **Technologist, Telecommunications Systems Technology**  
+  Superior Institute of Engineering of Porto (ISEP), Porto - Portugal (2015 - 2015)  
+  
+  **Project at ISEP**, a software development project was carried out using the C programming language on the Arduino platform to control and adjust the lighting flow in meeting rooms. The same software was also programmed to manage the opening and closing of the room windows.
+  All of these controls can be operated through a mobile phone, tablet, or computer via wireless (Bluetooth) technology.
+
 ---
 
 ## **Some of the main projects**
